@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Jahirul lslam</h1>
 <h3 align="center">A passionate problem solver, Machine Learning ,Deep Learning,NLP</h3>
-<img width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif" alt="jahirnstu14" />
+<img align="right" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif" alt="jahirnstu14" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahirnstu14&label=Profile%20views&color=0e75b6&style=flat" alt="jahirnstu14" /> </p>
